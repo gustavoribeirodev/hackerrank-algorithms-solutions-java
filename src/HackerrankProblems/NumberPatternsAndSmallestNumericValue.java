@@ -36,7 +36,7 @@ import java.io.OutputStreamWriter;
 import java.util.PriorityQueue;
 import java.util.Scanner;
 
-public class NumberPatterns01 {
+public class NumberPatternsAndSmallestNumericValue {
 
     public static void main(String[] args) throws IOException {
         Scanner in = new Scanner(System.in); // recebe o dado do usuário

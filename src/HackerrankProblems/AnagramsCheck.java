@@ -30,7 +30,7 @@ Constraints:
 
      */
 
-public class Anagrams02 {
+public class AnagramsCheck {
 
     public static void main(String[] args) {
 
